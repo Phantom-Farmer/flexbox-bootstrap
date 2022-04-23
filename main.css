@@ -1,10 +1,18 @@
 body {
-  background-color: lavenderblush;
+  display:flex;
+  justify-content: center;
+  background-color: lavenderblush; 
   
 }
 
 .btn {
+  display: block;
   background-color: blueviolet;
   color: lightskyblue;
-  margin: 9px 180px 9px 180px;
+  margin: 22px;
+  width: 250px; 
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
 }
+
+ 
